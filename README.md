@@ -1,9 +1,5 @@
-# ubpulse H3
 
 ![ubpulse H3](images/VISD-53_Featured_Large_ubpulse-H3_780x600.jpg)
-
-![All in Onen](images/VISD-54_All-in-One_ubpulse-H3_780x580.jpg)
-
 ### Features 
 - Optical Sensor for Measuring Heart Rate
 - Analog front end, Microcontroller, Battery Power Circuit
@@ -15,6 +11,9 @@
 - Clinical Standardization Criteria
 - Real Time Bluetooth Communications
 - Display Measuring, Analysis Reports
+
+![All in Onen](images/VISD-54_All-in-One_ubpulse-H3_780x580.jpg)
+
 ### For App. Developer 
 - ubpulse H3 ‘s communication formats are fully opened.
 - You can make your own applications  
