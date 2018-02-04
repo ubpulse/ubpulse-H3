@@ -25,6 +25,15 @@
 ![Function Block](images/VISD-55_Function_Block_ubpulse_780x890.png)
 
 ### Bluetooth Connection
+- Bluetooth Profile : SPP(Serial Port Profile)
+- It's easy to coding via host's serial port access. 
 ![Bluetooth](images/VISD-56_bluetooth_ubpulse_780x560.jpg)
+
+### USB Connection
+- USB Class : USB HID (Human Interface Device).
+- It's not need to install the device driver manually. 
+- All OS(windows, linux, android,.. ) supporting the USB HID device driver by default.
+
+![USB](images/VISD-57_USB_ubpulse_780x560.jpg)
 
 ## Full Documentation : http://laxtha.net/ubpulse-h3
