@@ -24,4 +24,7 @@
 ### Function Block
 ![Function Block](images/VISD-55_Function_Block_ubpulse_780x890.png)
 
+### Bluetooth Connection
+![Bluetooth](images/VISD-56_bluetooth_ubpulse_780x560.jpg)
+
 ## Full Documentation : http://laxtha.net/ubpulse-h3
