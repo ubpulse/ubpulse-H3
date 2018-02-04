@@ -26,7 +26,8 @@
 
 ### Bluetooth Connection
 - Bluetooth Profile : SPP(Serial Port Profile)
-- It's easy to coding via host's serial port access. 
+- It's easy to program with host's serial port access. 
+
 ![Bluetooth](images/VISD-56_bluetooth_ubpulse_780x560.jpg)
 
 ### USB Connection
