@@ -1,18 +1,16 @@
 
 ![ubpulse H3](images/VISD-53M1_Featured_Full_ubpulse-H3_780x780.jpg)
 ### Features 
-- Optical Sensor for Measuring Heart Rate
-- Analog front end, Microcontroller, Battery Power Circuit
-- OLED Display
-- Bluetooth
-- Speaker
-- Digital Signal Processing
 - HRV, ANS Analysis Algorithm
 - Clinical Standardization Criteria
-- Real Time Bluetooth Communications
-- Display Measuring, Analysis Reports
+- Standalone OLED Display Measuring, Analysis Reports
+- Optical Sensor for Measuring Heart Rate
+- Analog front end, Microcontroller, Battery Power Circuit
+- Speaker
+- Bluetooth, USB , Real Time Communications
 
-![All in Onen](images/VISD-54_All-in-One_ubpulse-H3_780x580.jpg)
+
+![All in One](images/VISD-54_All-in-One_ubpulse-H3_780x580.jpg)
 
 ### For App. Developer 
 - ubpulse H3 ‘s communication formats are fully opened.
@@ -22,7 +20,7 @@
 - and all of data from the ubpulse H3.
 
 ### Function Block
-![Function Block](images/VISD-55_Function_Block_ubpulse_780x890.png)
+![Function Block](images/VISD-55M1_Function_Block_ubpulse-H3_780x955.png)
 
 ### Bluetooth Connection
 - Bluetooth Profile : SPP(Serial Port Profile)
