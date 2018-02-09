@@ -1,5 +1,5 @@
 
-![ubpulse H3](images/VISD-53_Featured_Large_ubpulse-H3_780x600.jpg)
+![ubpulse H3](images/VISD-53M1_Featured_Full_ubpulse-H3_780x780.jpg)
 ### Features 
 - Optical Sensor for Measuring Heart Rate
 - Analog front end, Microcontroller, Battery Power Circuit
