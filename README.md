@@ -21,6 +21,7 @@
 
 ### Displays 
 - ubpulse H3 built-in OLED displays all information about measuring and ANS reporting.
+
 ![Displays](images/VISD-66_Display_Desc_ubpulse-H3_780x1083.png)
 
 ### Function Block
