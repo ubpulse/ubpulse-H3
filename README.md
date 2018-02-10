@@ -20,9 +20,15 @@
 - and all of data from the ubpulse H3.
 
 ### Displays 
-- ubpulse H3 built-in OLED displays all information about measuring and ANS reporting.
+- ubpulse H3 built-in small monitor displays all informations about measuring and ANS reporting.
 
 ![Displays](images/VISD-66_Display_Desc_ubpulse-H3_780x1083.png)
+
+### Displays - Clinical Standard 
+- ubpulse H3 shows the both HRV value and clinical standard.
+- It's easy to check nervous system activity is normal or abnormal, high or low.
+![Display Clinical Standard](images/VISD-65_Display_Clinical_Standard_ubpulse-H3_780x825.png)
+
 
 ### Function Block
 ![Function Block](images/VISD-55M1_Function_Block_ubpulse-H3_780x955.png)
